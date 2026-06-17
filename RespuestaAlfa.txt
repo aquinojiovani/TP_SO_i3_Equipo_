@@ -1,0 +1,9 @@
+Alfa tuvo que hacer un git clone del repositorio y un cd del archivo,
+para después hacer un git checkout de Beta. De ahí, Alfa usa el comando
+IPconfig para ver todos los datos de la IP.
+
+Alfa modifica el archivo de beta.txt, y debajo de los datos IP de Beta, Alfa
+pega los suyos.
+
+Por último, Alfa hace un git push origin Beta, y un git push origin main.
+
