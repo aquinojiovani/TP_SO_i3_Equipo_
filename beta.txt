@@ -1,0 +1,26 @@
+Nombre y Apellido: Aquino Jovani
+
+IP
+(Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::d6cd:8c1c:5c94:8d3%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.180
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::7cae:e45c:770f:f569%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+)
+
+Hora:
+(12:20)
