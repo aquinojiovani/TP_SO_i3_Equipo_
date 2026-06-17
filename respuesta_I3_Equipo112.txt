@@ -1,0 +1,24 @@
+Integrantes:
+Aquino Jovani
+Maidana Adriel
+
+A:El master queda actualizado con todos los cambios incorporados por el merge
+
+B:Sí. Antes de realizar el merge, Beta pudo obtener y revisar los cambios realizados por los demás integrantes.
+
+C: Para realizarlo, tuve que utilizar los siguientes comandos
+git checkout main
+git pull origin main
+git merge NombreDeLaRama
+git push origin main
+
+
+D:Alfa tuvo que hacer un git clone del repositorio y un cd del archivo,
+para después hacer un git checkout de Beta. De ahí, Alfa usa el comando
+IPconfig para ver todos los datos de la IP.
+
+E:Alfa modifica el archivo de beta.txt, y debajo de los datos IP de Beta, Alfa
+pega los suyos.
+
+F:Por último, Alfa hace un git push origin Beta, y un git push origin main.
+
